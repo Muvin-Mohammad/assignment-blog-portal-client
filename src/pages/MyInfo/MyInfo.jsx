@@ -76,7 +76,7 @@ const MyInfo = () => {
 
                 {/* my wishlisted blogs */}
                 <div className="mt-12 mb-16">
-                    <h2 className="text-5xl font-bold text-center">My Wish listed</h2>
+                    <h2 className="text-5xl font-bold text-center">My Wishlisted</h2>
                     <div className="overflow-x-auto mt-8">
                         <table className="table">
                             {/* head */}
