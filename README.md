@@ -44,3 +44,8 @@
 * react toastify
 * sweet alert
 
+* ## Future Improvements
+- Add functionality for email notifications.
+- Enhance search with autocomplete suggestions.
+- Include analytics for blog engagement.
+
