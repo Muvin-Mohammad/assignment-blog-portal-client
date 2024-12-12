@@ -21,7 +21,7 @@ const FeaturedBlogItems = ({ longestDescription, index }) => {
             </td>
             <th>
                 <Link to={`/added_blog/${_id}`}>
-                    <button className="btn px-6 bg-teal-700 text-white hover:bg-white hover:text-black">View</button>
+                    <button className="btn px-6 bg-teal-700 text-white hover:bg-white hover:text-black">Show</button>
                 </Link>
             </th>
         </tr>
