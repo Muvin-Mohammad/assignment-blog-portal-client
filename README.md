@@ -1,5 +1,34 @@
-# Website Name: Blog Portal
-# Website Link: https://blog-portal-auth.web.app/
+# Website Name: Blog Portal Website
+# Website Live Link: https://blog-portal-auth.web.app/
+
+## Key Features
+
+1. **Home Page**
+   - Responsive navbar with conditional rendering for authentication.
+   - Hero section with a banner.
+   - Recent blogs section showcasing six blogs with essential details.
+   - Newsletter subscription with user feedback via toast messages.
+   - Two unique additional sections for enhanced user experience.
+
+2. **Blogs Management**
+   - Add, update, and view blogs.
+   - Blog filtering by category and search functionality.
+   - Blog details page with user comments and conditional interactions.
+
+3. **Wishlist**
+   - Add blogs to a personal wishlist.
+   - View and manage wishlisted blogs.
+
+4. **Authentication**
+   - Email/password registration and login.
+   - Social login integration (e.g., Google).
+   - Error handling for login and registration.
+
+5. **Other Features**
+   - Featured blogs page with sortable data tables.
+   - Loading skeletons and animations for improved UX.
+   - Secure private routes using JWT authentication.
+   - Framer Motion animations on the home page.
 
 # Bullet Points 
 * This is the blog portal site for blog content lovers. Using the site, a user can read all blogs and, if they wish, write a new blog for the readers.
